@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/reetika-goel"
+      # url: "https://github.com/reetika-goel"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://linkedin.com/in/reetika-goel"
+      # url: "https://linkedin.com/in/reetika-goel"
 
 # Site Footer
 footer:
