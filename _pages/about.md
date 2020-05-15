@@ -35,20 +35,20 @@ Enjoy writing code, debug the error and do happy dance when it finally works. Wh
   * **Subjects undertaken in BS:** Computer Concepts & C Programing, Data Structure with C, OOP using C++, Design & Analysis         of Algorithms, Microprocessor, Operating Systems, Database Management, Computer Graphics & Visualization, Computer             Networks, Object Oriented Modelling & Design, Java & J2EE, Advanced Computer Architecture, Automata, Information &             Network Security
 
 ## Experience
-* Graduate Teaching Assistant					                                                            August 2019 – December 2019
+* Graduate Teaching Assistant (August 2019 – December 2019)
   Department of Software Engineering, SJSU, CA
   • Held responsibility in grading quizzes, assignment and tests every week 
   •	Facilitated review section prior to examination and provide feedback on student practice presentations 
   •	Drafted and presented day-to-day reports to professor regarding student learning situations at university’s Cloud and Mobile Computing department 
   
-* Summer Intern                                                                                       July 2011 - August 2011
+* Summer Intern (July 2011 - August 2011)
   Netmax Technologies pvt ltd, India
   • Worked to Design Desktop Applications Development in Java
   
 ## Certification
-•	Certified online in Deep Learning with TensorFlow by IBM on May 2019
-•	Certified online in Docker Essentials: A Developer Introduction by IBM in May 2019
-•	Certified online in Machine Learning with Python by IBM on May 2019
+*	Certified online in Deep Learning with TensorFlow by IBM on May 2019
+*	Certified online in Docker Essentials: A Developer Introduction by IBM in May 2019
+*	Certified online in Machine Learning with Python by IBM on May 2019
 
 
 
