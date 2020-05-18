@@ -46,6 +46,7 @@ algorithms and IR systems for efficient analysis of large collection of document
 ## Classification
 
 The Twitter dataset is obtained from Kaggle, which is used as the training set for the different models trained. The dataset is imported and cleaned, using various data cleaning methods. This is followed by the data preprocessing phase. Once the data is ready, it is split into Train-Test sets. These sets are used to train various models and obtain the test results for the same. The different performance measure for each model is captured and are compared to identify the best model. The models are validated using the k-fold validation.
+
 **Classification (Sentiment - Positive/Negative)**
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TwitterSentiment/C-1.png)
